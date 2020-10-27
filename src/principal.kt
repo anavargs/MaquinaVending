@@ -1,9 +1,8 @@
 fun main() {
-    var bSprite:Bebidas=Productos()
-    bSprite.
-    var sCocaCola:Bebidas=Productos()
-    var sNestea:Bebidas=Productos()
-    var sCocaColaZero:Bebidas=Productos()
-    var sAgua:Bebidas=Productos()
+    var bNombre1:Bebidas=Bebidas()
+    var bNombre2:Bebidas=Bebidas()
+    var bNombre3:Bebidas=Bebidas()
+    var bNombre4:Bebidas=Bebidas()
+    var bNombre5:Bebidas=Bebidas()
 
 }
